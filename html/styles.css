@@ -1,0 +1,14 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+* {
+	font-family: 'Open Sans', sans-serif;
+}
+
+body {
+	padding: 50px;
+}
+
+div#content {
+	width: 1024px;
+	margin: auto;
+}
