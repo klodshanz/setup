@@ -3,7 +3,7 @@ Git Cheat Sheet
 
 == CREATE
 Clone an existing repository
-[source,bash]
+[source,git]
 ------------------------------------------
 $ git clone ssh://user@domain.com/repo.git
 ------------------------------------------
