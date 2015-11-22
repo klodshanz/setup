@@ -1,6 +1,14 @@
 Git Cheat Sheet
 ===============
 
+<p style="background-color: #515964">
+CREATE
+</p>
+
+<div style="background-color: #515964">
+CREATE
+</div>
+
 == CREATE
 Clone an existing repository
 [source,git]
