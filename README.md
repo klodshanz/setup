@@ -1,5 +1,7 @@
 # Setup
 * [Oh My ZSH!](http://ohmyz.sh/)
+* [iTerm2 Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
+* https://github.com/mbadolato/iTerm2-Color-Schemes
 
 # Links
 * [Must Watch CSS Videos](https://github.com/AllThingsSmitty/must-watch-css/blob/master/README.md)
