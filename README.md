@@ -1,3 +1,6 @@
+# Setup
+* [Oh My ZSH!] (http://ohmyz.sh/)
+
 # Links
 * [Must Watch CSS Videos](https://github.com/AllThingsSmitty/must-watch-css/blob/master/README.md)
 # SSH
