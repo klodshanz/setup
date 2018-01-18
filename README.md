@@ -1,6 +1,7 @@
 # Terminal Setup
 
 ## General
+* https://www.bretfisher.com/shell/
 * [Gruvbox Color Scheme](https://github.com/morhetz/gruvbox)
 
 ## Mac
