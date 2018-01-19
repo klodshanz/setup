@@ -28,3 +28,4 @@ https://guides.github.com/features/mastering-markdown/
 Check fingerprint of local key for comparison with the registered keys on GitHub
 
 ```ssh-keygen -l -E md5 -f ~/.ssh/id_rsa.pub```
+https://gist.github.com/klodshanz/3d2f34992e1a78c9876e3be2faf8aa8e
