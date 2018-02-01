@@ -1,3 +1,6 @@
+# Guides
+* [Terminal Setup](Terminal.md)
+
 # SSH
 Check fingerprint of local key for comparison with the registered keys on GitHub
 
