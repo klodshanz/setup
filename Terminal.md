@@ -2,7 +2,7 @@
 
 ## Oh-My-Zsh
 * [Oh My ZSH!](http://ohmyz.sh/)
-* https://github.com/caiogondim/bullet-train.zsh
+* [Bullettrain Theme](https://github.com/caiogondim/bullet-train.zsh)
 * https://github.com/powerline/fonts/tree/master/SourceCodePro
 
 ## General
