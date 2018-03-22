@@ -1,5 +1,9 @@
 # Terminal Setup
 
+## Fonts
+
+* https://github.com/powerline/fonts/tree/master/SourceCodePro
+
 ## General
 * https://www.bretfisher.com/shell
 * [Gruvbox Color Scheme](https://github.com/morhetz/gruvbox)
