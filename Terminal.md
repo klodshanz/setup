@@ -4,6 +4,7 @@
 * [Oh My ZSH!](http://ohmyz.sh/)
 * [Bullettrain Theme](https://github.com/caiogondim/bullet-train.zsh)
 * https://github.com/powerline/fonts/tree/master/SourceCodePro
+* [Installing Agnoster theme](https://gist.github.com/renshuki/3cf3de6e7f00fa7e744a)
 
 ## General
 * https://www.bretfisher.com/shell
