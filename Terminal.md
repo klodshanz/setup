@@ -1,7 +1,8 @@
 # Terminal Setup
 
-## Fonts
-
+## Oh-My-Zsh
+* [Oh My ZSH!](http://ohmyz.sh/)
+* https://github.com/caiogondim/bullet-train.zsh
 * https://github.com/powerline/fonts/tree/master/SourceCodePro
 
 ## General
@@ -9,7 +10,6 @@
 * [Gruvbox Color Scheme](https://github.com/morhetz/gruvbox)
 
 ## Mac
-* [Oh My ZSH!](http://ohmyz.sh/)
 * [iTerm2 Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
 * https://github.com/mbadolato/iTerm2-Color-Schemes
 
@@ -20,3 +20,4 @@
 * https://amreldib.com/blog/CustomizeWindowsCmderPrompt
 * https://github.com/joonro/ConEmu-Color-Themes
 * https://github.com/morhetz/gruvbox
+
