@@ -9,6 +9,7 @@
 ## General
 * https://www.bretfisher.com/shell
 * [Gruvbox Color Scheme](https://github.com/morhetz/gruvbox)
+* [Dracula Theme](https://draculatheme.com)
 
 ## Mac
 * [iTerm2 Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
