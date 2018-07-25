@@ -1,6 +1,7 @@
 # Software
 
 * MuCommander (https://www.mucommander.com/)
+  * Configuration location: ```~/.mucommander```
 * KeePass (https://keepass.info/)
 * Sublime Text (https://www.sublimetext.com/)  
   * Configuration location: ```C:\Users\cljunggren\AppData\Roaming\Sublime Text 3\```
