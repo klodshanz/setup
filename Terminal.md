@@ -22,4 +22,5 @@
 * https://amreldib.com/blog/CustomizeWindowsCmderPrompt
 * https://github.com/joonro/ConEmu-Color-Themes
 * https://github.com/morhetz/gruvbox
+* https://github.com/ryanoasis/nerd-fonts
 
