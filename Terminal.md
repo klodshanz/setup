@@ -8,8 +8,14 @@
 
 ## General
 * https://www.bretfisher.com/shell
+
+## Color Schemes
 * [Gruvbox Color Scheme](https://github.com/morhetz/gruvbox)
 * [Dracula Theme](https://draculatheme.com)
+* [Nord Color Scheme](https://github.com/arcticicestudio/nord)
+
+## Fonts
+* https://github.com/ryanoasis/nerd-fonts
 
 ## Mac
 * [iTerm2 Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
@@ -22,5 +28,3 @@
 * https://amreldib.com/blog/CustomizeWindowsCmderPrompt
 * https://github.com/joonro/ConEmu-Color-Themes
 * https://github.com/morhetz/gruvbox
-* https://github.com/ryanoasis/nerd-fonts
-

@@ -4,7 +4,8 @@
   * http://www.oracle.com/technetwork/java/javase/downloads/index.html
 * Sublime Text (https://www.sublimetext.com)  
   * Configuration location: ```C:\Users\cljunggren\AppData\Roaming\Sublime Text 3\```
-  * Install "Package Controll", ""
+  * Install "Package Controll"
+  * Add Sublime Text to PATH variable to make subl command work! (see Configuration)
 * MuCommander (https://www.mucommander.com)
   * Configuration location: ```~/.mucommander```
 * Dropbox (https://www.dropbox.com)
@@ -14,12 +15,17 @@
   * Skin location: ```C:\Program Files (x86)\Launchy\skins\```
 * Cmder (http://cmder.net)  
   * Large install with Git For windows included
+  * Import ConEmu.xml in Settings
+  * Replace: /opt/cmder/vendor/git-for-windows/etc/profile.d/git-prompt-lua
+* VirtualBox
+  * https://www.virtualbox.org
 * Docker For Windows
   * https://www.docker.com/docker-windows
+* Telegram
+* Spotify
 
 -----
 
-* VirtualBox (https://www.virtualbox.org)
 * Vagrant (https://www.vagrantup.com)
 * FlashBack Express Recorder (https://www.flashbackrecorder.com)
 * IntelliJ IDEA
@@ -27,6 +33,9 @@
 
 # Configuration
 
-PATH:
-%GRAILS_HOME%
-/opt/bin
+Additions to PATH variable
+
+* ```%GRAILS_HOME%```  
+  Should also be defined (location in /opt/java)
+* ```/opt/bin```
+* ```C:\Program Files\Sublime Text 3\```
