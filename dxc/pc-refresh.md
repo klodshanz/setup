@@ -3,15 +3,16 @@
 * Java SE Development Kit
   * http://www.oracle.com/technetwork/java/javase/downloads/index.html
 * Sublime Text (https://www.sublimetext.com)  
-  * Configuration location: ```C:\Users\cljunggren\AppData\Roaming\Sublime Text 3\```
+  * ⚙️ Configuration: ```C:\Users\cljunggren\AppData\Roaming\Sublime Text 3\```
+  * Transfer unsaved buffers by copying the file "Session.sublime_session" from ```Local``` in the configuration folder.
   * Install "Package Controll"
   * Add Sublime Text to PATH variable to make subl command work! (see Configuration)
 * MuCommander (https://www.mucommander.com)
-  * Configuration location: ```~/.mucommander```
+  * ⚙️ Configuration: ```~/.mucommander```
 * Dropbox (https://www.dropbox.com)
 * KeePass (https://keepass.info)
 * Launchy (http://www.launchy.net)
-  * Configuration location: ```C:\Users\cljunggren\AppData\Roaming\Launchy\```
+  * ⚙️ Configuration: ```C:\Users\cljunggren\AppData\Roaming\Launchy\```
   * Skin location: ```C:\Program Files (x86)\Launchy\skins\```
 * Cmder (http://cmder.net)  
   * Large install with Git For windows included
@@ -23,6 +24,8 @@
   * https://www.docker.com/docker-windows
 * Telegram
 * Spotify
+* DbVisualizer
+  * https://www.dbvis.com
 
 -----
 
@@ -39,3 +42,4 @@ Additions to PATH variable
   Should also be defined (location in /opt/java)
 * ```/opt/bin```
 * ```C:\Program Files\Sublime Text 3\```
+
