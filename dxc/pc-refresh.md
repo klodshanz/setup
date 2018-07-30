@@ -19,18 +19,18 @@
   * Large install with Git For windows included
   * Import ConEmu.xml in Settings
   * Replace: ```/opt/cmder/vendor/git-for-windows/etc/profile.d/git-prompt-lua```
-* VirtualBox
-  * https://www.virtualbox.org
-* Docker For Windows
-  * https://www.docker.com/docker-windows
-* Telegram
-* Spotify
-* DbVisualizer
-  * https://www.dbvis.com
+* VirtualBox (https://www.virtualbox.org)
+* Docker For Windows (https://www.docker.com/docker-windows)
+* Telegram (https://telegram.org)
+* Spotify (https://www.spotify.com)
+* DbVisualizer (https://www.dbvis.com)
+* Vagrant (https://www.vagrantup.com)
+
+* Terraform (https://www.terraform.io)
+* Hugo (https://gohugo.io)
 
 -----
 
-* Vagrant (https://www.vagrantup.com)
 * FlashBack Express Recorder (https://www.flashbackrecorder.com)
 * IntelliJ IDEA
 * Tray
