@@ -19,19 +19,19 @@
   * Large install with Git For windows included
   * Import ConEmu.xml in Settings
   * Replace: ```/opt/cmder/vendor/git-for-windows/etc/profile.d/git-prompt-lua```
-* VirtualBox
-  * https://www.virtualbox.org
-* Docker For Windows
-  * https://www.docker.com/docker-windows
-* Telegram
-* Spotify
-* DbVisualizer
-  * https://www.dbvis.com
+* VirtualBox (https://www.virtualbox.org)
+* Docker For Windows (https://www.docker.com/docker-windows)
+* Telegram (https://telegram.org)
+* Spotify (https://www.spotify.com)
+* DbVisualizer (https://www.dbvis.com)
 * paint.net (https://www.getpaint.net)
+* Vagrant (https://www.vagrantup.com)
+
+* Terraform (https://www.terraform.io)
+* Hugo (https://gohugo.io)
 
 -----
 
-* Vagrant (https://www.vagrantup.com)
 * FlashBack Express Recorder (https://www.flashbackrecorder.com)
 * IntelliJ IDEA
 * Tray
@@ -49,3 +49,7 @@
 
 * Map OneDrive to drive X: ```subst x: C:\Claus\OneDrive\Folder\Example``` Remove again with ```subst x: /D```
 * Startup Folder Windows 10 : Win+R and type ```shell:startup```
+
+## Medarbejdercertifikat
+
+Export from DanID Application (to html) file and just load in Firefox on the new PC.
