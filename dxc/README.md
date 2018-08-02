@@ -49,7 +49,3 @@
 
 * Map OneDrive to drive X: ```subst x: C:\Claus\OneDrive\Folder\Example``` Remove again with ```subst x: /D```
 * Startup Folder Windows 10 : Win+R and type ```shell:startup```
-
-## Medarbejdercertifikat
-
-Export from DanID Application (to html) file and just load in Firefox on the new PC.
