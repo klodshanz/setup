@@ -26,9 +26,12 @@
 * DbVisualizer (https://www.dbvis.com)
 * paint.net (https://www.getpaint.net)
 * Vagrant (https://www.vagrantup.com)
+* GitHub for Windows (https://desktop.github.com)
 
 * Terraform (https://www.terraform.io)
 * Hugo (https://gohugo.io)
+* Grails
+* Maven ()
 
 -----
 
@@ -41,6 +44,7 @@
 ## Additions to PATH variable
 
 * ```%GRAILS_HOME%```  
+* ```%MVN_HOME%```  
   Should also be defined (location in /opt/java)
 * ```/opt/bin```
 * ```C:\Program Files\Sublime Text 3\```
@@ -49,6 +53,7 @@
 
 * Map OneDrive to drive X: ```subst x: C:\Claus\OneDrive\Folder\Example``` Remove again with ```subst x: /D```
 * Startup Folder Windows 10 : Win+R and type ```shell:startup```
+* ```opt/bin``` folder contains important executables that you use a lot
 
 ## Medarbejdercertifikat
 
