@@ -17,6 +17,9 @@
 ## Fonts
 * https://github.com/ryanoasis/nerd-fonts
 
+## Linux
+* http://mayccoll.github.io/Gogh/
+
 ## Mac
 * [iTerm2 Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
 * https://github.com/mbadolato/iTerm2-Color-Schemes
