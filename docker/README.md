@@ -1,17 +1,15 @@
 ## Basic commands
 
 ```bash
-#############################################################
-# Install
-#############################################################
 docker run --rm -p 80:8080 [container-name]
 docker container ls -a
 docker exec -it [container-id] bash    # Normal bash
 docker exec -it [container-id] /bin/ash # Alpine ash
+```
 
-#############################################################
-# Cleanup
-#############################################################
+## Clean Up
+
+```bash
 docker rm -f $(docker ps -aq)  # Remove all containers
 docker rmi $(docker images -q) # Remove all images
 ```
@@ -19,17 +17,10 @@ docker rmi $(docker images -q) # Remove all images
 ## Install (Ubuntu)
 
 ```bash
-#############################################################
-# add current user to docker group and change permissions
-#############################################################
 sudo gpasswd -a $USER docker
+getent group docker
 sudo chown "$USER":"$USER" /home/"$USER"/.docker -R
 sudo chmod g+rwx "/home/$USER/.docker" -R
-
-#############################################################
-### Check list membership information for docker group
-#############################################################
-getent group docker 
 ```
 
 ## AWS (ECR)
