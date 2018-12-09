@@ -2,6 +2,12 @@
 
 ## Apache
 
+Configuration files are located here:
+```
+/etc/apache2
+```
+Commands to operate the apache installation:
+
 ```bash
 sudo apachectl start
 sudo apachectl stop
