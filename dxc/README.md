@@ -9,6 +9,7 @@
   * Transfer unsaved buffers by copying the file ```Session.sublime_session``` from ```Local``` in the configuration folder.
   * Install "Package Control"
     * https://packagecontrol.io/packages/FileIcons
+    * https://packagecontrol.io/packages/1337%20Color%20Scheme
   * Add Sublime Text to PATH variable to make subl command work! (see Configuration)
 * **MuCommander** (https://www.mucommander.com)
   * 🛠️ Configuration: ```~/.mucommander```
