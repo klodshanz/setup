@@ -1,7 +1,3 @@
-# Development
-
-* https://developers.meethue.com/
-
 # Guides
 * [Terminal Setup](Terminal.md)
 
@@ -29,9 +25,6 @@ ssh-add -l
 * Identify the USB drive with ```diskutil list```
 * Run ```diskutil unmountDisk /dev/disk2```
 * Run ```sudo dd if=/Users/claus/Downloads/ubuntu-18.04.1-desktop-amd64.dmg of=/dev/rdisk1 bs=1m```
-
-# Documentation
-https://guides.github.com/features/mastering-markdown/
 
 # Links
 * [Must Watch CSS Videos](https://github.com/AllThingsSmitty/must-watch-css/blob/master/README.md)
