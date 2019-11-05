@@ -1,3 +1,10 @@
+# Awesome
+
+* [Shields.IO](https://shields.io/category/build)
+* [HTML5UP](https://html5up.net/)
+* [Simple Icons](https://simpleicons.org/)
+* [Fontello](http://fontello.com/)
+
 # Guides
 * [Terminal Setup](Terminal.md)
 
