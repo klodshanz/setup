@@ -4,6 +4,7 @@
 * [HTML5UP](https://html5up.net/)
 * [Simple Icons](https://simpleicons.org/)
 * [Fontello](http://fontello.com/)
+* [GetWaves (SVG)](https://getwaves.io/)
 
 # Guides
 * [Terminal Setup](Terminal.md)
