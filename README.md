@@ -5,6 +5,8 @@
 
 # Design
 
+* [Must Watch CSS Videos](https://github.com/AllThingsSmitty/must-watch-css/blob/master/README.md)
+* [Laws Of UX](https://lawsofux.com/)
 * [Unsplash](https://unsplash.com/)
 * [HTML5UP](https://html5up.net/)
 * [Simple Icons](https://simpleicons.org/)
@@ -38,8 +40,3 @@ ssh-add -l
 * Identify the USB drive with ```diskutil list```
 * Run ```diskutil unmountDisk /dev/disk2```
 * Run ```sudo dd if=/Users/claus/Downloads/ubuntu-18.04.1-desktop-amd64.dmg of=/dev/rdisk1 bs=1m```
-
-# Links
-* [Must Watch CSS Videos](https://github.com/AllThingsSmitty/must-watch-css/blob/master/README.md)
-* https://lawsofux.com/
-
