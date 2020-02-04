@@ -17,6 +17,7 @@
 
 ## Fonts
 * https://github.com/ryanoasis/nerd-fonts
+* https://www.nerdfonts.com/font-downloads
 
 ## Linux
 * http://mayccoll.github.io/Gogh/
