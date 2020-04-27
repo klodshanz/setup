@@ -3,6 +3,7 @@
 * [Shields.IO](https://shields.io/category/build)
 * [Carrd](https://carrd.co/build)
 * [Emoji-List](https://unicode.org/Public/emoji/1.0/emoji-data.txt)
+* [Favicons](https://favicon.io/emoji-favicons/)
 
 # Design
 
