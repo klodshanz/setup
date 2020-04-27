@@ -26,3 +26,8 @@ int main()
     return 0;
 }
 ```
+
+```bash
+cc -o colors colors.c
+./colors
+```
