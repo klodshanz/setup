@@ -11,30 +11,17 @@ C Program to dump text in colors on terminal:
 #define KMAG  "\x1B[35m"
 #define KCYN  "\x1B[36m"
 #define KWHT  "\x1B[37m"
-#define CR "\n"
-#define EM ""
-
-void line(int lines) {
-	printf(CR);
-	for (int index=0; index<lines; index++) {
-    	printf("%s##################################################################\n",KGRN);
-    }
-	printf(CR);
-}
 
 int main()
 {
-    line(2);
-	FILE *fp;
-	char path[1035];
-	fp = popen("pwd", "r");
-	if (fp!=NULL) {
-		while (fgets(path, sizeof(path)-1, fp) != NULL) {
-			printf("  %s%s", KWHT,path);
-		}
-	}
-	pclose(fp);
-	line(2);
+    printf("%sred\n", KRED);
+    printf("%sgreen\n", KGRN);
+    printf("%syellow\n", KYEL);
+    printf("%sblue\n", KBLU);
+    printf("%smagenta\n", KMAG);
+    printf("%scyan\n", KCYN);
+    printf("%swhite\n", KWHT);
+    printf("%snormal\n", KNRM);
 
     return 0;
 }
