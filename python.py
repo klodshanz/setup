@@ -10,4 +10,9 @@ for x in range(15):
 ###############################################################
 import datetime
 today_str = '21-02-2020 10:01'
-today = datetime.strptime(today_str, '%d-%m-%Y %H:%M')
+today = datetime.datetime.strptime(today_str, '%d-%m-%Y %H:%M')
+now = datetime.datetime.now()
+now_pretty = now.strftime("%d-%m-%Y (%H:%M:%S.%f)")
+
+import time
+current_time_millis = int(round(time.time() * 1000))
