@@ -1,25 +1,23 @@
 # Software
 
-## 🛠️ Testing
-
 * **Java SE Development Kit**
   * http://www.oracle.com/technetwork/java/javase/downloads/index.html
 * **Sublime Text** (https://www.sublimetext.com)  
-  * 🛠 Configuration: ```C:\Users\cljunggren\AppData\Roaming\Sublime Text 3\```
+  * Configuration: ```C:\Users\cljunggren\AppData\Roaming\Sublime Text 3\```
   * Transfer unsaved buffers by copying the file ```Session.sublime_session``` from ```Local``` in the configuration folder.
   * Install "Package Control"
     * https://packagecontrol.io/packages/FileIcons
     * https://packagecontrol.io/packages/1337%20Color%20Scheme
   * Add Sublime Text to PATH variable to make subl command work! (see Configuration)
 * **MuCommander** (https://www.mucommander.com)
-  * 🛠️ Configuration: ```~/.mucommander```
+  * Configuration: ```~/.mucommander```
 * **Dropbox** (https://www.dropbox.com)
 * **KeePass** (https://keepass.info)
 * **Launchy** (http://www.launchy.net)
-  * 🛠️ Configuration: ```C:\Users\cljunggren\AppData\Roaming\Launchy\```
+  * Configuration: ```C:\Users\cljunggren\AppData\Roaming\Launchy\```
   * Skin location: ```C:\Program Files (x86)\Launchy\skins\```
 * **Cmder** (http://cmder.net)  
-  * 🛠️ Configuration: ```C:\opt\cmder\vendor\conemu-maximus5\```
+  * Configuration: ```C:\opt\cmder\vendor\conemu-maximus5\```
   * Large install with Git For windows included
   * Import ConEmu.xml in Settings
   * Replace: ```/opt/cmder/vendor/git-for-windows/etc/profile.d/git-prompt-lua```
