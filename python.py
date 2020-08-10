@@ -16,3 +16,10 @@ now_pretty = now.strftime("%d-%m-%Y (%H:%M:%S.%f)")
 
 import time
 current_time_millis = int(round(time.time() * 1000))
+
+###############################################################
+# JSON
+###############################################################
+import json
+json.dumps(response, indent=4, sort_keys=True)
+json.dumps(json.loads(response.text), indent=4, sort_keys=True)
