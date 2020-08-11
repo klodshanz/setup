@@ -1,11 +1,11 @@
 # Awesome
 
+* SVG [UnDraw](https://undraw.co/), [Waves](https://getwaves.io/) and [Blobs](https://www.blobmaker.app/) and [Editing](https://www.figma.com/)
 * [Awesome](https://project-awesome.org/troxler/awesome-css-frameworks)
 * [Shields.IO](https://shields.io/category/build)
 * [Carrd](https://carrd.co/build)
-* [Emoji-List](https://unicode.org/Public/emoji/1.0/emoji-data.txt)
-* [Emoji-Copy](https://www.emojicopy.com/)
-* [Favicons](https://favicon.io/emoji-favicons/)
+
+* Emoji [List](https://unicode.org/Public/emoji/1.0/emoji-data.txt), [Copy](https://www.emojicopy.com/) and [Favicons](https://favicon.io/emoji-favicons/)
 
 # Design
 
