@@ -1,6 +1,6 @@
 # Awesome
 
-* SVG: [UnDraw](https://undraw.co/), [Waves](https://getwaves.io/) and [Blobs](https://www.blobmaker.app/) and [Editing](https://www.figma.com/)
+* SVG: [UnDraw](https://undraw.co/), [Waves](https://getwaves.io/), [Shape Dividers](https://www.shapedivider.app/), [Blobs](https://www.blobmaker.app/) and [Editing](https://www.figma.com/)
 * [Awesome](https://project-awesome.org/troxler/awesome-css-frameworks)
 * [Shields.IO](https://shields.io/category/build)
 * [Carrd](https://carrd.co/build)
