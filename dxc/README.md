@@ -5,7 +5,10 @@
   * Download individual font zips and extract to a single folder
   * Select all in Explorer and choose **install**
 * **Java SE Development Kit**
-  * http://www.oracle.com/technetwork/java/javase/downloads/index.html
+  * https://openjdk.java.net/
+  * Download and unzip Windows version and place in e.g. P:\jdk-15
+  * Update JAVA_HOME=P:\jdk-15
+  * Update CLASSPATH=P:\jdk-15\bin
 * **Sublime Text** (https://www.sublimetext.com)  
   * Configuration: ```C:\Users\cljunggren\AppData\Roaming\Sublime Text 3\```
   * Transfer unsaved buffers by copying the file ```Session.sublime_session``` from ```Local``` in the configuration folder.
