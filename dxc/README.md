@@ -27,26 +27,22 @@
   * Configuration: ```C:\Users\cljunggren\AppData\Roaming\Launchy\```
   * Skin location: ```C:\Program Files (x86)\Launchy\skins\```
 * **Cmder** (http://cmder.net)  
-  * Configuration: ```C:\opt\cmder\vendor\conemu-maximus5\```
   * Large install with Git For windows included
   * Import ConEmu.xml in Settings
+  * Configuration location: ```C:\opt\cmder\vendor\conemu-maximus5\```
   * Replace: ```/opt/cmder/vendor/git-for-windows/etc/profile.d/git-prompt-lua```
 * **VirtualBox** (https://www.virtualbox.org)
-* **Docker For Windows** (https://www.docker.com/docker-windows)
 * **Telegram** (https://telegram.org)
 * **Spotify** (https://www.spotify.com)
 * **DbVisualizer** (https://www.dbvis.com)
 * **paint.net** (https://www.getpaint.net)
-* **Vagrant** (https://www.vagrantup.com)
 * **GitHub for Windows** (https://desktop.github.com)
-
-* **Terraform** (https://www.terraform.io)
-* **Hugo** (https://gohugo.io)
-* **Grails**
 * **Maven**
+* **Vagrant** (https://www.vagrantup.com)
 
 -----
 
+* **Docker For Windows** (https://www.docker.com/docker-windows)
 * FlashBack Express Recorder (https://www.flashbackrecorder.com)
 * IntelliJ IDEA
 * Tray
