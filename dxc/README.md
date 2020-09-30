@@ -30,8 +30,7 @@
 * **Cmder** (http://cmder.net)  
   * Large install with Git For windows included
   * Import ConEmu.xml in Settings
-  * Configuration location: ```C:\opt\cmder\vendor\conemu-maximus5\```
-  * Replace: ```/opt/cmder/vendor/git-for-windows/etc/profile.d/git-prompt-lua```
+  * Prompt definition : ```/opt/cmder/vendor/git-for-windows/etc/profile.d/git-prompt-lua```
 * **VirtualBox** (https://www.virtualbox.org)
 * **Telegram** (https://telegram.org)
 * **Spotify** (https://www.spotify.com)
