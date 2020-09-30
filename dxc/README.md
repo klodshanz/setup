@@ -1,8 +1,13 @@
 # Software
 
-* **Fonts** (https://github.com/ryanoasis/nerd-fonts/releases)
-  * Download individual font zips and extract to a single folder
-  * Select all in Explorer and choose **install**
+* **Fonts**
+  * Desktop Fonts
+    * https://fonts.google.com/specimen/Roboto+Condensed (used in Outlook for compact inbox)
+    * https://fonts.google.com/specimen/Open+Sans
+    * https://fonts.google.com/specimen/Roboto
+  * Coding Fonts (https://github.com/ryanoasis/nerd-fonts/releases)
+    * Download individual font zips and extract to a single folder
+    * Select all in Explorer and choose **install**
 * **Java SE Development Kit** (https://openjdk.java.net/)
   * Download and unzip Windows version and place in e.g. P:\jdk-15
   * Update JAVA_HOME=P:\jdk-15
