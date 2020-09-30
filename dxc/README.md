@@ -1,5 +1,9 @@
 # Software
 
+* **Fonts**
+  * https://github.com/ryanoasis/nerd-fonts/releases
+  * Download individual font zips and extract to a single folder
+  * Select all in Explorer and choose **install**
 * **Java SE Development Kit**
   * http://www.oracle.com/technetwork/java/javase/downloads/index.html
 * **Sublime Text** (https://www.sublimetext.com)  
