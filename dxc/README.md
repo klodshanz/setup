@@ -1,11 +1,9 @@
 # Software
 
-* **Fonts**
-  * https://github.com/ryanoasis/nerd-fonts/releases
+* **Fonts** (https://github.com/ryanoasis/nerd-fonts/releases)
   * Download individual font zips and extract to a single folder
   * Select all in Explorer and choose **install**
-* **Java SE Development Kit**
-  * https://openjdk.java.net/
+* **Java SE Development Kit** (https://openjdk.java.net/)
   * Download and unzip Windows version and place in e.g. P:\jdk-15
   * Update JAVA_HOME=P:\jdk-15
   * Update CLASSPATH=P:\jdk-15\bin
