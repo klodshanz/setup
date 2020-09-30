@@ -58,8 +58,12 @@
 
 ## Tweaks
 
-* Map OneDrive to drive X: ```subst x: C:\Claus\OneDrive\Folder\Example``` Remove again with ```subst x: /D```
 * Startup Folder Windows 10 : Win+R and type ```shell:startup```
+* Alt+Tab Switcher back to traditional
+  * WIN+R => regedit
+  * Navigate to HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer
+  * Right Click: New DWORD value ```AltTabSettings``` and set to ```1```
+* Map OneDrive to drive X: ```subst x: C:\Claus\OneDrive\Folder\Example``` Remove again with ```subst x: /D```
 * ```opt/bin``` folder contains important executables that you use a lot
 
 ## Medarbejdercertifikat
