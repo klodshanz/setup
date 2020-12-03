@@ -16,6 +16,7 @@
 * [Simple Icons](https://simpleicons.org/)
 * [Fontello](http://fontello.com/)
 * [GetWaves (SVG)](https://getwaves.io/)
+* [PNGWing](https://www.pngwing.com/)
 
 # Guides
 * [Terminal Setup](Terminal.md)
