@@ -37,7 +37,7 @@
 * **DbVisualizer** (https://www.dbvis.com)
 * **paint.net** (https://www.getpaint.net)
 * **GitHub for Windows** (https://desktop.github.com)
-* **KeyExplorer (https://keystore-explorer.org/downloads.html)
+* **KeyStore Explorer** (https://keystore-explorer.org/downloads.html)
 
 -----
 
