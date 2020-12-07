@@ -37,8 +37,7 @@
 * **DbVisualizer** (https://www.dbvis.com)
 * **paint.net** (https://www.getpaint.net)
 * **GitHub for Windows** (https://desktop.github.com)
-* **Maven**
-* **Vagrant** (https://www.vagrantup.com)
+* **KeyExplorer (https://keystore-explorer.org/downloads.html)
 
 -----
 
