@@ -23,3 +23,18 @@ current_time_millis = int(round(time.time() * 1000))
 import json
 json.dumps(response, indent=4, sort_keys=True)
 json.dumps(json.loads(response.text), indent=4, sort_keys=True)
+
+###############################################################
+# Decorator
+###############################################################
+def deco(original_function):
+    def wrapper():
+        print("Code Executing Before")
+        original_function()
+        print("Code Executing After")
+    return wrapper()
+
+def foo():
+    print("This is a decorated function")
+
+foo()
