@@ -34,6 +34,7 @@ def deco(original_function):
         print("Code Executing After")
     return wrapper()
 
+@deco
 def foo():
     print("This is a decorated function")
 
