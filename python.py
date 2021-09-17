@@ -6,7 +6,7 @@ haystack = file.read()
 needle = '<credentialsId>(.*)</credentialsId>'
 ids = [matched.group(1) for matched in re.finditer(needle, haystack)]
 
-newstring = re.sub('^[+\- |\\\]*eoge', 'eoge', line)
+newstring = re.sub('^[+\- |\\\]*needle', 'replacement', haystack)
 
 #--------------------------------------------------------------------------------------
 # Generate Random Strings
