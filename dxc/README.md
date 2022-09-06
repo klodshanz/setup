@@ -20,6 +20,7 @@
     * https://packagecontrol.io/packages/FileIcons
     * https://packagecontrol.io/packages/1337%20Color%20Scheme
   * Add Sublime Text to PATH variable to make subl command work! (see Configuration)
+* **Sublime Merge** (https://www.sublimemerge.com)
 * **MuCommander** (https://www.mucommander.com)
   * Configuration: ```~/.mucommander```
 * **Dropbox** (https://www.dropbox.com)
@@ -27,24 +28,23 @@
 * **Launchy** (http://www.launchy.net)
   * Configuration: ```C:\Users\cljunggren\AppData\Roaming\Launchy\```
   * Skin location: ```C:\Program Files (x86)\Launchy\skins\```
+* **AutoHotKey** (https://www.autohotkey.com)
 * **Cmder** (http://cmder.net)  
   * Large install with Git For windows included
   * Import ConEmu.xml in Settings
   * Prompt definition : ```/opt/cmder/vendor/git-for-windows/etc/profile.d/git-prompt-lua```
-* **VirtualBox** (https://www.virtualbox.org)
+* **Slack** (https://slack.com/downloads/windows)
 * **Telegram** (https://telegram.org)
 * **Spotify** (https://www.spotify.com)
-* **DbVisualizer** (https://www.dbvis.com)
 * **paint.net** (https://www.getpaint.net)
 * **GitHub for Windows** (https://desktop.github.com)
-* **KeyStore Explorer** (https://keystore-explorer.org/downloads.html)
+* **Tray**
 
------
+## Alternative
 
-* **Docker For Windows** (https://www.docker.com/docker-windows)
-* FlashBack Express Recorder (https://www.flashbackrecorder.com)
-* IntelliJ IDEA
-* Tray
+* *JetBrains Toolbox** (https://www.jetbrains.com/toolbox-app)
+* **DbVisualizer** (https://www.dbvis.com)
+* **VirtualBox** (https://www.virtualbox.org)
 
 # Configuration
 
