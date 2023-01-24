@@ -17,4 +17,12 @@ Minimal Ansible File
   - debug: Printing Debug Information
     var: result
     verbosity: 2
+
+  - name: Creating a file with content
+    copy:
+      dest: "/etc/environment"
+      content: |
+        export http_proxy=http://proxy-server:8080
+        export https_proxy=https://proxy-server:8080
+        export no_proxy=localhost
 ~~~
