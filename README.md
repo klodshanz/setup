@@ -1,7 +1,6 @@
 # Awesome
 
 * [Awesome](https://project-awesome.org/)
-* 
 * SVG: [UnDraw](https://undraw.co/), [Waves](https://getwaves.io/), [Shape Dividers](https://www.shapedivider.app/), [Blobs](https://www.blobmaker.app/) and [Editing](https://www.figma.com/)
 * [Grabient](https://www.grabient.com/)
 * [Shields.IO](https://shields.io/category/build)
