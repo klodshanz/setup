@@ -55,6 +55,9 @@
   Should also be defined (location in /opt/java)
 * ```/opt/bin```
 * ```C:\Program Files\Sublime Text 3\```
+* Chrome Bookmarks
+  * Export fra Chrome (CTRL+SHIFT+O) > Kebab-menu > Export Bookmarks
+  * Import til Chrome (CTRL+SHIFT+O) > Kebab-menu > Import Bookmarks
 
 ## Tweaks
 
