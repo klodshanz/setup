@@ -49,10 +49,6 @@
 
 # Configuration
 
-## Additions to PATH variable
-
-* ```%GRAILS_HOME%```  
-* ```%MVN_HOME%```  
   Should also be defined (location in /opt/java)
 * ```/opt/bin```
 * ```C:\Program Files\Sublime Text 3\```
