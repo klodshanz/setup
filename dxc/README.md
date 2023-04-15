@@ -36,6 +36,7 @@
 * **Slack** (https://slack.com/downloads/windows)
 * **Telegram** (https://telegram.org)
 * **Spotify** (https://www.spotify.com)
+  * Configure local files to point to Dropbox://Music/Spotify
 * **paint.net** (https://www.getpaint.net)
 * **GitHub for Windows** (https://desktop.github.com)
 * **Tray**
