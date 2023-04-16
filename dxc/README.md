@@ -44,7 +44,7 @@
 * **paint.net** (https://www.getpaint.net)
 * **GitHub for Windows** (https://desktop.github.com)
 * **Tray**
-* Install from Microsoft Store
+* **Install from Microsoft Store**
   * 7zip
   * Windows Terminal
 
