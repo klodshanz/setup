@@ -9,10 +9,13 @@
     * Download individual font zips and extract to a single folder
     * Select all in Explorer and choose **install**
 * **Chrome** (https://www.google.com/chrome/)
+* **Dropbox** (https://www.dropbox.com)
+  * Setup to keep all files locally
 * **Java SE Development Kit** (https://openjdk.java.net/)
   * Download and unzip Windows version and place in e.g. P:\jdk-15
-  * Update JAVA_HOME=P:\jdk-15
-  * Update CLASSPATH=P:\jdk-15\bin
+  * Update Environment Variables (WIN+R > ```rundll32.exe sysdm.cpl,EditEnvironmentVariables```)
+  * ```JAVA_HOME=P:\jdk-15```
+  * ```CLASSPATH=P:\jdk-15\bin```
 * **Sublime Text** (https://www.sublimetext.com)  
   * Configuration: ```C:\Users\cljunggren\AppData\Roaming\Sublime Text 3\```
   * Transfer unsaved buffers by copying the file ```Session.sublime_session``` from ```Local``` in the configuration folder.
@@ -20,10 +23,11 @@
     * https://packagecontrol.io/packages/FileIcons
     * https://packagecontrol.io/packages/1337%20Color%20Scheme
   * Add Sublime Text to PATH variable to make subl command work! (see Configuration)
+* **JetBrains Toolbox** (https://www.jetbrains.com/toolbox-app)
 * **Sublime Merge** (https://www.sublimemerge.com)
 * **MuCommander** (https://www.mucommander.com)
-  * Configuration: ```~/.mucommander```
-* **Dropbox** (https://www.dropbox.com)
+  * Download Portable Version and extract to ```P:\mu```
+  * Configuration in ```P:\mu\.mucommander``` copy from ```X:\.backup```
 * **KeePass** (https://keepass.info)
 * **Launchy** (http://www.launchy.net)
   * Configuration: ```C:\Users\cljunggren\AppData\Roaming\Launchy\```
@@ -46,7 +50,6 @@
 
 ## Alternative
 
-* *JetBrains Toolbox** (https://www.jetbrains.com/toolbox-app)
 * **DbVisualizer** (https://www.dbvis.com)
 * **VirtualBox** (https://www.virtualbox.org)
 
@@ -55,6 +58,7 @@
 * Chrome Bookmarks
   * Export fra Chrome (CTRL+SHIFT+O) > Kebab-menu > Export Bookmarks
   * Import til Chrome (CTRL+SHIFT+O) > Kebab-menu > Import Bookmarks
+* Pinboard
 
 ## Tweaks
 
