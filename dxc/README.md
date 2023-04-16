@@ -23,8 +23,8 @@
     * https://packagecontrol.io/packages/FileIcons
     * https://packagecontrol.io/packages/1337%20Color%20Scheme
   * Add Sublime Text to PATH variable to make subl command work! (see Configuration)
-* **JetBrains Toolbox** (https://www.jetbrains.com/toolbox-app)
 * **Sublime Merge** (https://www.sublimemerge.com)
+* **JetBrains Toolbox** (https://www.jetbrains.com/toolbox-app)
 * **MuCommander** (https://www.mucommander.com)
   * Download Portable Version and extract to ```P:\mu```
   * Configuration in ```P:\mu\.mucommander``` copy from ```X:\.backup```
