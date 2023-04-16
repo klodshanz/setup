@@ -40,6 +40,9 @@
 * **paint.net** (https://www.getpaint.net)
 * **GitHub for Windows** (https://desktop.github.com)
 * **Tray**
+* Install from Microsoft Store
+  * 7zip
+  * Windows Terminal
 
 ## Alternative
 
@@ -47,11 +50,8 @@
 * **DbVisualizer** (https://www.dbvis.com)
 * **VirtualBox** (https://www.virtualbox.org)
 
-# Configuration
+# Setup
 
-  Should also be defined (location in /opt/java)
-* ```/opt/bin```
-* ```C:\Program Files\Sublime Text 3\```
 * Chrome Bookmarks
   * Export fra Chrome (CTRL+SHIFT+O) > Kebab-menu > Export Bookmarks
   * Import til Chrome (CTRL+SHIFT+O) > Kebab-menu > Import Bookmarks
