@@ -59,7 +59,9 @@
 * Chrome Bookmarks
   * Export fra Chrome (CTRL+SHIFT+O) > Kebab-menu > Export Bookmarks
   * Import til Chrome (CTRL+SHIFT+O) > Kebab-menu > Import Bookmarks
-* Pinboard
+* Chrome Extensions
+* Power and Sleep Settings
+  * Never sleep when on Power
 
 ## Tweaks
 
