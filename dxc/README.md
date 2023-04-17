@@ -6,7 +6,10 @@
     * https://fonts.google.com/specimen/Open+Sans
     * https://fonts.google.com/specimen/Roboto
   * Coding Fonts
-    * https://www.jetbrains.com/lp/mono/
+    * **JetBrains**  
+      https://www.jetbrains.com/lp/mono/
+    * **Sublime**  
+      https://fonts.google.com/specimen/Roboto+Mono
 * **Chrome** (https://www.google.com/chrome/)
 * **Dropbox** (https://www.dropbox.com)
   * Setup to keep all files locally
