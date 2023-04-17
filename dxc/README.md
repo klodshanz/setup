@@ -5,9 +5,8 @@
     * https://fonts.google.com/specimen/Roboto+Condensed (used in Outlook for compact inbox)
     * https://fonts.google.com/specimen/Open+Sans
     * https://fonts.google.com/specimen/Roboto
-  * Coding Fonts (https://github.com/ryanoasis/nerd-fonts/releases)
-    * Download individual font zips and extract to a single folder
-    * Select all in Explorer and choose **install**
+  * Coding Fonts
+    * https://www.jetbrains.com/lp/mono/
 * **Chrome** (https://www.google.com/chrome/)
 * **Dropbox** (https://www.dropbox.com)
   * Setup to keep all files locally
