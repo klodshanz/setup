@@ -51,7 +51,6 @@
 ## Alternative
 
 * **DbVisualizer** (https://www.dbvis.com)
-* **VirtualBox** (https://www.virtualbox.org)
 
 # Setup
 
