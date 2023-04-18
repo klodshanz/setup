@@ -28,7 +28,7 @@
 * https://github.com/mbadolato/iTerm2-Color-Schemes
 
 ## Windows
-* http://cmder.net/
+* http://cmder.app
 * https://github.com/cmderdev/cmder
 * https://goblincoding.com/2016/05/24/adding-docker-terminal-to-cmder-on-windows
 * https://amreldib.com/blog/CustomizeWindowsCmderPrompt
