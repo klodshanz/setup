@@ -70,7 +70,7 @@
 
 ## Tweaks
 
-* Startup Folder Windows 10 : Win+R and type ```shell:startup```
+* Startup Folder Windows 10 : Win+R > ```shell:startup```
 * Alt+Tab Switcher back to traditional
   * WIN+R => regedit
   * Navigate to HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer
