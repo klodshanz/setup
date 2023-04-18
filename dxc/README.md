@@ -9,6 +9,7 @@
   * https://fonts.google.com/specimen/Roboto+Mono (Sublime Text)
   * https://github.com/tonsky/FiraCode
   * https://fonts.google.com/specimen/IBM+Plex+Mono
+  * https://typeof.net/Iosevka/
 
 # Software
 
@@ -28,11 +29,11 @@
   * Update Environment Variables (WIN+R > ```rundll32.exe sysdm.cpl,EditEnvironmentVariables```)
     * ```JAVA_HOME=P:\jdk-15```
     * ```CLASSPATH=P:\jdk-15\bin```
+* **KeePass** (https://keepass.info)
 * **JetBrains Toolbox** (https://www.jetbrains.com/toolbox-app)
 * **MuCommander** (https://www.mucommander.com)
   * Download Portable Version and extract to ```P:\mu```
   * Configuration in ```P:\mu\.mucommander``` copy from ```X:\.backup```
-* **KeePass** (https://keepass.info)
 * **Launchy** (http://www.launchy.net)
   * Configuration: ```C:\Users\cljunggren\AppData\Roaming\Launchy\```
   * Skin location: ```C:\Program Files (x86)\Launchy\skins\```
@@ -42,18 +43,17 @@
   * Import ConEmu.xml in Settings
   * Prompt definition : ```/opt/cmder/vendor/git-for-windows/etc/profile.d/git-prompt-lua```
 * **Slack** (https://slack.com/downloads/windows)
-* **Telegram** (https://telegram.org)
 * **Spotify** (https://www.spotify.com)
   * Configure local files to point to Dropbox://Music/Spotify
 * **paint.net** (https://www.getpaint.net)
 * **GitHub for Windows** (https://desktop.github.com)
-* **Tray**
 * **Install from Microsoft Store**
   * 7zip
   * Windows Terminal
 
 ## Alternative
 
+* **Telegram** (https://telegram.org)
 * **DbVisualizer** (https://www.dbvis.com)
 
 # Setup
@@ -67,6 +67,8 @@
   * Jenkins
 * Power and Sleep Settings
   * Never sleep when on Power
+* ```P:\```
+  * 
 
 ## Tweaks
 
