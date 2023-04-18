@@ -1,14 +1,13 @@
 # Software
 
-* **Fonts**
-  * Desktop Fonts
-    * https://fonts.google.com/specimen/Roboto+Condensed (used in Outlook for compact inbox)
-    * https://fonts.google.com/specimen/Open+Sans (General DXC Typeface)
-    * https://fonts.google.com/specimen/Roboto (Robust Sans Serif)
-  * Monospace Fonts
-    * https://www.jetbrains.com/lp/mono (For PyCharm and IntelliJ)
-    * https://fonts.google.com/specimen/Roboto+Mono (Sublime Text)
-    * https://github.com/tonsky/FiraCode (General Purpose Coding Font)
+* **Fonts Desktop**
+  * https://fonts.google.com/specimen/Roboto+Condensed (used in Outlook for compact inbox)
+  * https://fonts.google.com/specimen/Open+Sans (General DXC Typeface)
+  * https://fonts.google.com/specimen/Roboto (Robust Sans Serif)
+* **Fonts Coding**
+  * https://www.jetbrains.com/lp/mono (For PyCharm and IntelliJ)
+  * https://fonts.google.com/specimen/Roboto+Mono (Sublime Text)
+  * https://github.com/tonsky/FiraCode (General Purpose Coding Font)
 * **Chrome** (https://www.google.com/chrome/)
 * **Dropbox** (https://www.dropbox.com)
   * Setup to keep all files locally
