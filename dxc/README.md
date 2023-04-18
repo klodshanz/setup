@@ -14,11 +14,6 @@
 * **Chrome** (https://www.google.com/chrome/)
 * **Dropbox** (https://www.dropbox.com)
   * Setup to keep all files locally
-* **Java SE Development Kit** (https://openjdk.java.net/)
-  * Download and unzip Windows version and place in e.g. P:\jdk-15
-  * Update Environment Variables (WIN+R > ```rundll32.exe sysdm.cpl,EditEnvironmentVariables```)
-    * ```JAVA_HOME=P:\jdk-15```
-    * ```CLASSPATH=P:\jdk-15\bin```
 * **Sublime Text** (https://www.sublimetext.com)  
   * Configuration: ```C:\Users\cljunggren\AppData\Roaming\Sublime Text 3\```
   * Transfer unsaved buffers by copying the file ```Session.sublime_session``` from ```Local``` in the configuration folder.
@@ -27,6 +22,11 @@
     * https://packagecontrol.io/packages/1337%20Color%20Scheme
   * Add Sublime Text to PATH variable to make subl command work! (see Configuration)
 * **Sublime Merge** (https://www.sublimemerge.com)
+* **Java SE Development Kit** (https://openjdk.java.net/)
+  * Download and unzip Windows version and place in e.g. P:\jdk-15
+  * Update Environment Variables (WIN+R > ```rundll32.exe sysdm.cpl,EditEnvironmentVariables```)
+    * ```JAVA_HOME=P:\jdk-15```
+    * ```CLASSPATH=P:\jdk-15\bin```
 * **JetBrains Toolbox** (https://www.jetbrains.com/toolbox-app)
 * **MuCommander** (https://www.mucommander.com)
   * Download Portable Version and extract to ```P:\mu```
