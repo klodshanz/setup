@@ -7,7 +7,8 @@
 * **Fonts Coding**
   * https://www.jetbrains.com/lp/mono (For PyCharm and IntelliJ)
   * https://fonts.google.com/specimen/Roboto+Mono (Sublime Text)
-  * https://github.com/tonsky/FiraCode (General Purpose Coding Font)
+  * https://github.com/tonsky/FiraCode
+  * https://fonts.google.com/specimen/IBM+Plex+Mono
 
 # Software
 
