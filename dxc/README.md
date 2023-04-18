@@ -60,6 +60,9 @@
   * Export fra Chrome (CTRL+SHIFT+O) > Kebab-menu > Export Bookmarks
   * Import til Chrome (CTRL+SHIFT+O) > Kebab-menu > Import Bookmarks
 * Chrome Extensions
+  * NewTab
+  * Pinboard
+  * Jenkins
 * Power and Sleep Settings
   * Never sleep when on Power
 
