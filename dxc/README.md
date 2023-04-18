@@ -1,4 +1,4 @@
-# Software
+# Fonts
 
 * **Fonts Desktop**
   * https://fonts.google.com/specimen/Roboto+Condensed (used in Outlook for compact inbox)
@@ -8,6 +8,9 @@
   * https://www.jetbrains.com/lp/mono (For PyCharm and IntelliJ)
   * https://fonts.google.com/specimen/Roboto+Mono (Sublime Text)
   * https://github.com/tonsky/FiraCode (General Purpose Coding Font)
+
+# Software
+
 * **Chrome** (https://www.google.com/chrome/)
 * **Dropbox** (https://www.dropbox.com)
   * Setup to keep all files locally
