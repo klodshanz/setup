@@ -39,7 +39,7 @@
   * Skin location: ```C:\Program Files (x86)\Launchy\skins\```
 * **AutoHotKey** (https://www.autohotkey.com)
 * **Cmder** (http://cmder.net)  
-  * Large install with Git For windows included
+  * Choose Large install as it includes git For windows
   * Import ConEmu.xml in Settings
   * Prompt definition : ```/opt/cmder/vendor/git-for-windows/etc/profile.d/git-prompt-lua```
 * **Slack** (https://slack.com/downloads/windows)
