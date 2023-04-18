@@ -16,6 +16,7 @@
 * [4bit Color Scheme Designer](http://ciembor.github.io/4bit/#)
 
 ## Fonts
+* https://www.codingfont.com
 * https://github.com/ryanoasis/nerd-fonts
 * https://www.nerdfonts.com/font-downloads
 
