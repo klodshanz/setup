@@ -10,7 +10,7 @@
   * https://github.com/tonsky/FiraCode
   * https://fonts.google.com/specimen/IBM+Plex+Mono
   * https://typeof.net/Iosevka
-    * Download Fonts > Releases > Show All XXX Assets > ttc-iosevka-22.0.2.zip
+    * Download Fonts `>` Releases `>` Show All XXX Assets `>` ttc-iosevka-22.0.2.zip
 
 # Software
 
