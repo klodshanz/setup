@@ -7,7 +7,7 @@
 * **Fonts Coding**
   * https://www.jetbrains.com/lp/mono (For PyCharm and IntelliJ)
   * https://fonts.google.com/specimen/Roboto+Mono (Sublime Text)
-  * https://github.com/tonsky/FiraCode
+  * https://github.com/tonsky/FiraCode (Releases > Fira_Code_v6.2.zip)
   * https://fonts.google.com/specimen/IBM+Plex+Mono
   * https://typeof.net/Iosevka
     * Download Fonts `>` Releases `>` Show All XXX Assets `>` ttc-iosevka-22.0.2.zip
