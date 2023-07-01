@@ -47,6 +47,7 @@
 * **Spotify** (https://www.spotify.com)
   * Configure local files to point to Dropbox://Music/Spotify
 * **paint.net** (https://www.getpaint.net)
+* **Adobe Acrobat Reader** (https://get.adobe.com/reader/)
 * **GitHub for Windows** (https://desktop.github.com)
 * **Install from Microsoft Store**
   * 7zip
