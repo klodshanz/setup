@@ -35,6 +35,7 @@
 * **MuCommander** (https://www.mucommander.com)
   * Download Portable Version and extract to ```P:\mu```
   * Configuration in ```P:\mu\.mucommander``` copy from ```X:\.backup```
+  * Grap https://search.maven.org/artifact/com.formdev/flatlaf/3.2.1/jar and place it in ```P:\mu\bundle```
 * **Launchy** (http://www.launchy.net)
   * Configuration: ```C:\Users\cljunggren\AppData\Roaming\Launchy\```
   * Skin location: ```C:\Program Files (x86)\Launchy\skins\```
