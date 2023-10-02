@@ -54,6 +54,11 @@
   * 7zip
   * Windows Terminal
 
+## Gear Software
+
+* **Camera** (https://www.logitech.com/da-dk/software/capture.html)
+* **Keyboard** (https://www.logitechg.com/en-us/innovation/g-hub.html)
+
 ## Alternative
 
 * **Telegram** (https://telegram.org)
