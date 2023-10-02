@@ -61,6 +61,7 @@
 
 ## Alternative
 
+* **Audacity** (https://www.audacityteam.org/download/windows)
 * **Telegram** (https://telegram.org)
 * **DbVisualizer** (https://www.dbvis.com)
 
