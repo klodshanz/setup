@@ -49,6 +49,7 @@
   * Configure local files to point to Dropbox://Music/Spotify
 * **paint.net** (https://www.getpaint.net)
 * **Adobe Acrobat Reader** (https://get.adobe.com/reader/)
+* **VLC** (https://www.videolan.org/vlc/)
 * **GitHub for Windows** (https://desktop.github.com)
 * **Install from Microsoft Store**
   * 7zip
@@ -77,8 +78,6 @@
   * Jenkins
 * Power and Sleep Settings
   * Never sleep when on Power
-* ```P:\```
-  * 
 
 ## Tweaks
 
