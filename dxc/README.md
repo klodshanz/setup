@@ -30,8 +30,6 @@
   * Update Environment Variables (WIN+R > ```rundll32.exe sysdm.cpl,EditEnvironmentVariables```)
     * ```JAVA_HOME=P:\jdk-15```
     * ```CLASSPATH=P:\jdk-15\bin```
-* **KeePass** (https://keepass.info)
-  * Download zip and extract tp ```P:\utils```
 * **JetBrains Toolbox** (https://www.jetbrains.com/toolbox-app)
 * **MuCommander** (https://www.mucommander.com)
   * Download Portable Version and extract to ```P:\mu```
@@ -55,7 +53,10 @@
 * **Install from Microsoft Store**
   * 7zip
   * Windows Terminal
-
+* **KeePass** (https://keepass.info)
+  * Download Zip File and extract to ```P:\utils```
+* **KeyStore Explorer**
+  * Download Zip File and extract to ```P:\utils```
 ## Gear Software
 
 * **Camera** (https://www.logitech.com/da-dk/software/capture.html)
