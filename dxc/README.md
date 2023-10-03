@@ -31,6 +31,7 @@
     * ```JAVA_HOME=P:\jdk-15```
     * ```CLASSPATH=P:\jdk-15\bin```
 * **KeePass** (https://keepass.info)
+  * Download zip and extract tp ```P:\utils```
 * **JetBrains Toolbox** (https://www.jetbrains.com/toolbox-app)
 * **MuCommander** (https://www.mucommander.com)
   * Download Portable Version and extract to ```P:\mu```
