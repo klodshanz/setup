@@ -3,6 +3,7 @@
 * [IconBuddy](https://iconbuddy.app/)
 * [Fontello](http://fontello.com/)
 * [Simple Icons](https://simpleicons.org/)
+* [IBM Icons](https://www.ibm.com/design/language/iconography/ui-icons/library/)
 
 # Awesome
 
