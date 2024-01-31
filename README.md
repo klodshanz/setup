@@ -1,3 +1,9 @@
+# Icons
+
+* [IconBuddy](https://iconbuddy.app/)
+* [Fontello](http://fontello.com/)
+* [Simple Icons](https://simpleicons.org/)
+
 # Awesome
 
 * [Awesome](https://project-awesome.org/)
@@ -14,8 +20,6 @@
 * [Laws Of UX](https://lawsofux.com/)
 * [Unsplash](https://unsplash.com/)
 * [HTML5UP](https://html5up.net/)
-* [Simple Icons](https://simpleicons.org/)
-* [Fontello](http://fontello.com/)
 * [GetWaves (SVG)](https://getwaves.io/)
 * [PNGWing](https://www.pngwing.com/)
 
