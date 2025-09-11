@@ -15,8 +15,6 @@
 # Software
 
 * **Chrome** (https://www.google.com/chrome/)
-* **Dropbox** (https://www.dropbox.com)
-  * Setup to keep all files locally
 * **Sublime Text** (https://www.sublimetext.com)  
   * Configuration: ```C:\Users\cljunggren\AppData\Roaming\Sublime Text 3\```
   * Transfer unsaved buffers by copying the file ```Session.sublime_session``` from ```Local``` in the configuration folder.
@@ -57,6 +55,7 @@
   * Download Zip File and extract to ```P:\utils```
 * **KeyStore Explorer**
   * Download Zip File and extract to ```P:\utils```
+
 ## Gear Software
 
 * **Camera** (https://www.logitech.com/da-dk/software/capture.html)
