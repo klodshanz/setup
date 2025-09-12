@@ -43,6 +43,7 @@
 * **Adobe Acrobat Reader** (https://get.adobe.com/reader/)
 * **VLC** (https://www.videolan.org/vlc/)
 * **GitHub for Windows** (https://desktop.github.com)
+* **Git for Windows** (* https://git-scm.com/downloads/win)
 * **Install from Microsoft Store**
   * 7zip
   * Windows Terminal
