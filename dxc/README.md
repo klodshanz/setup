@@ -37,10 +37,6 @@
   * Configuration: ```C:\Users\cljunggren\AppData\Roaming\Launchy\```
   * Skin location: ```C:\Program Files (x86)\Launchy\skins\```
 * **AutoHotKey** (https://www.autohotkey.com)
-* **Cmder** (http://cmder.net)  
-  * Choose Large install as it includes git For windows
-  * Import ConEmu.xml in Settings
-  * Prompt definition : ```/opt/cmder/vendor/git-for-windows/etc/profile.d/git-prompt-lua```
 * **Spotify** (https://www.spotify.com)
   * Configure local files to point to Dropbox://Music/Spotify
 * **paint.net** (https://www.getpaint.net)
@@ -66,10 +62,15 @@
 * **Audacity** (https://www.audacityteam.org/download/windows)
 * **Telegram** (https://telegram.org)
 * **DbVisualizer** (https://www.dbvis.com)
+* **Cmder** (http://cmder.net)  
+  * Choose Large install as it includes git For windows
+  * Import ConEmu.xml in Settings
+  * Prompt definition : ```/opt/cmder/vendor/git-for-windows/etc/profile.d/git-prompt-lua```
 
 # Setup
 
-* Chrome Bookmarks
+* Chrome Bookmarks  
+  Bookmarks er sync'et, så når der logges ind i google kommer alle bookmarks - nedenstående er mere som backup
   * Export fra Chrome (CTRL+SHIFT+O) > Kebab-menu > Export Bookmarks
   * Import til Chrome (CTRL+SHIFT+O) > Kebab-menu > Import Bookmarks
 * Chrome Extensions
@@ -92,3 +93,7 @@
 ## Medarbejdercertifikat
 
 Export from DanID Application (to html) file and just load in Firefox on the new PC.
+
+## Arkitektur
+
+
