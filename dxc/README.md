@@ -5,7 +5,7 @@
   * https://fonts.google.com/specimen/Open+Sans (General DXC Typeface)
   * https://fonts.google.com/specimen/Roboto (Robust Sans Serif)
 * **Fonts Coding**
-  * https://www.jetbrains.com/lp/mono (For PyCharm and IntelliJ)
+  * https://www.jetbrains.com/lp/mono (For PyCharm and IntelliJ - skal installeres eksplicit for access uden for JetBrains)
   * https://fonts.google.com/specimen/Roboto+Mono (Sublime Text)
   * https://github.com/tonsky/FiraCode (Releases > Fira_Code_v6.2.zip)
   * https://fonts.google.com/specimen/IBM+Plex+Mono
