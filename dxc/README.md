@@ -41,7 +41,6 @@
   * Choose Large install as it includes git For windows
   * Import ConEmu.xml in Settings
   * Prompt definition : ```/opt/cmder/vendor/git-for-windows/etc/profile.d/git-prompt-lua```
-* **Slack** (https://slack.com/downloads/windows)
 * **Spotify** (https://www.spotify.com)
   * Configure local files to point to Dropbox://Music/Spotify
 * **paint.net** (https://www.getpaint.net)
