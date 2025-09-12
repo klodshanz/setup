@@ -58,7 +58,7 @@
 ## Gear Software
 
 * **Camera** (https://www.logitech.com/da-dk/software/capture.html)
-* **Keyboard** (https://www.logitechg.com/en-us/innovation/g-hub.html)
+* **Keyboard** + **Mus** (https://www.logitechg.com/en-us/innovation/g-hub.html)
 * **Elgato Control Center** (https://www.elgato.com/us/en/s/downloads)
 
 ## Alternative
