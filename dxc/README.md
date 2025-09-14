@@ -24,10 +24,10 @@
   * Add Sublime Text to PATH variable to make subl command work! (see Configuration)
 * **Sublime Merge** (https://www.sublimemerge.com)
 * **Java SE Development Kit** (https://openjdk.java.net/)
-  * Download and unzip Windows version and place in e.g. P:\jdk-15
+  * Download and unzip Windows version and place in e.g. P:\jdk-24.0.2
   * Update Environment Variables (WIN+R > ```rundll32.exe sysdm.cpl,EditEnvironmentVariables```)
-    * ```JAVA_HOME=P:\jdk-15```
-    * ```CLASSPATH=P:\jdk-15\bin```
+    * ```JAVA_HOME=C:\opt\jdk-24.0.2```
+    * ```CLASSPATH=C:\ope\jdk-24.0.2\bin```
 * **JetBrains Toolbox** (https://www.jetbrains.com/toolbox-app)
 * **MuCommander** (https://www.mucommander.com)
   * Download Portable Version and extract to ```P:\mu```
