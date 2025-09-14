@@ -14,6 +14,13 @@
 
 # Software
 
+Efter installation af DXC Image - vent noget tid for at software komponenter automatisk installeres (Søren Conradsen siger ½ time). Herefter kan der installeres nogle komponenter fra DXC Company Portal.
+
+* **Install from Microsoft Store**
+  * 7zip
+  * Windows Terminal
+  * Adobe Acrobat Reader DC
+  * IvVanti Secure Access Client
 * **Chrome** (https://www.google.com/chrome/)
 * **Sublime Text** (https://www.sublimetext.com)  
   * Configuration: ```C:\Users\cljunggren\AppData\Roaming\Sublime Text 3\```
@@ -44,9 +51,6 @@
 * **VLC** (https://www.videolan.org/vlc/)
 * **GitHub for Windows** (https://desktop.github.com)
 * **Git for Windows** (* https://git-scm.com/downloads/win)
-* **Install from Microsoft Store**
-  * 7zip
-  * Windows Terminal
 * **KeePass** (https://keepass.info)
   * Download Zip File and extract to ```P:\utils```
 * **KeyStore Explorer**
