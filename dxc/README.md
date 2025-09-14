@@ -91,10 +91,6 @@
 * Map OneDrive to drive X: ```subst x: C:\Claus\OneDrive\Folder\Example``` Remove again with ```subst x: /D```
 * ```opt/bin``` folder contains important executables that you use a lot
 
-## Medarbejdercertifikat
-
-Export from DanID Application (to html) file and just load in Firefox on the new PC.
-
 ## Arkitektur
 
 
