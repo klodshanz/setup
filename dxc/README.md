@@ -20,7 +20,7 @@ Efter installation af DXC Image - vent noget tid for at software komponenter aut
   * 7zip
   * Windows Terminal
   * Adobe Acrobat Reader DC
-  * IvVanti Secure Access Client
+  * Ivanti Secure Access Client
 * **Chrome** (https://www.google.com/chrome/)
 * **Sublime Text** (https://www.sublimetext.com)  
   * Configuration: ```C:\Users\cljunggren\AppData\Roaming\Sublime Text 3\```
