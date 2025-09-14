@@ -82,8 +82,11 @@ Efter installation af DXC Image - vent noget tid for at software komponenter aut
   * NewTab
   * Pinboard
   * Jenkins
-* Power and Sleep Settings
-  * Never sleep when on Power
+* Power, sleep and battery settings
+  * Screen, sleep and hibernate timeouts
+    * Plugged in
+      * Make my device sleep after **Never**
+      * Make my device hibernate after **Never**
 
 ## Tweaks
 
